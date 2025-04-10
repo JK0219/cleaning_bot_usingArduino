@@ -1,5 +1,5 @@
 # cleaning_bot_usingArduino
-# 🧹 Cleaning Bot
+# Cleaning Bot
 
 A smart, Arduino-powered cleaning robot that follows user-defined paths or navigates autonomously using obstacle avoidance. Built with simple yet powerful components like HC-05 Bluetooth, L298N motor driver, and ultrasonic sensors, Cleaning Bot is a flexible, efficient solution for modern households and small businesses.
 
